@@ -37,6 +37,7 @@ body {
     margin: auto;
     text-align: justify;
     font-size: 1.5rem;
+    margin-top: 20px;
 }
 
 .heading2 {
@@ -48,11 +49,8 @@ body {
 ul{
     width: 80%;
     margin: auto;
-}
-
-li {
     font-size: 1.5rem;
-    line-height: 2;
+    line-height: 3rem;
 }
 
 .footer {
